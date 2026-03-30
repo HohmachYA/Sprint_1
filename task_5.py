@@ -19,6 +19,7 @@
 #     'Ожидаемый результат': 'Товар окажется в корзине'
 # }
 
+
 class TestCase:
 
     def __init__(self, steps=None, result=None):
